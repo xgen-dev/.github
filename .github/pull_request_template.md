@@ -9,6 +9,7 @@
 ## Impacts
 - [ ] Will add/remove AWS resources
 - [ ] Will increase/decrease load on existing resources
+- [ ] May cause downtime
 
 ##### Brief description of the impact if any
 - _description_
