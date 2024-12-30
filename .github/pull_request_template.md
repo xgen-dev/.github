@@ -1,15 +1,11 @@
-## Related issue or story
+## Related Issue or Story
 - Link to a Jira story or GitHub issue
 
 ## Checklist
-- [ ] Tested on DEV
+- [ ] Tested Locally
 - [ ] Tested on STAGE
 - [ ] Did load testing
-
-## Impacts
-- [ ] Will add/remove AWS resources
-- [ ] Will increase/decrease load on existing resources
 - [ ] May cause downtime
 
-##### Brief description of the impact if any
-- _description_
+## Will Affect Following Customers
+- ...
