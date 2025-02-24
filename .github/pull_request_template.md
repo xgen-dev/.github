@@ -12,3 +12,11 @@
 
 ## Will Affect Following Customers
 - ...
+
+## QA Plan
+How do you plan to perform the QA? 
+
+#### Examples:
+- This change only affects element X for Valentino and it's returning empty prediction. After merge, I'll check the element to see if we get predictions.
+- The Element Composer page doesn't show the preview link. After merge, I'll check to see if it does.
+- etc.
